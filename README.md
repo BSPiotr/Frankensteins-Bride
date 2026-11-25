@@ -103,4 +103,4 @@ No current plans for a relationship tracker module. I find them clunky and they 
 
 ---
 
-**TL;DR:** Do you like FF? Do you like internal states but found it bloated? Do you like Chekhov's gun but hated how it ALWAYS fired a bullet and caused the scene to go awry? Do you like RF prose rules but hate how the damn thing likes to pull fire alarms and heart attacks out the butt? Do you like the GM notebook but hate how it doesn't actually keep track of a scene? Do you want a preset that can do all of that in 3.5K tokens? Boy do I have it ready for a wider view.
+**TL;DR:** Do you like FF? Do you like internal states but found it bloated? Do you like Chekhov's gun but hated how it ALWAYS fired a bullet and caused the scene to go awry? Do you like RF prose rules but hate how the damn thing likes to pull fire alarms and heart attacks out the butt? Do you like the GM notebook but hate how it doesn't actually keep track of a scene? Do you want a preset that can do all of that in 7K tokens? Boy do I have it ready for a wider view.
