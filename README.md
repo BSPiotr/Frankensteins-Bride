@@ -8,7 +8,7 @@ Tested on Gemini 4 and GLM 5.3. This is the first public beta, and I need other 
 
 **Download:** [Latest release](https://github.com/BSPiotr/Frankensteins-Bride/releases/latest)
 
-**Sample Images:** [Real Chat](https://imgur.com/j0g7KQX) ([Card](https://chub.ai/characters/SecretApe/lacie-stuck-in-the-endless-dimension-c0b8d903b378)) ([Custom Lorebook](https://botbooru.com/lorebook/741))
+**Sample Images:** [Real Chat](https://imgur.com/2RXbQBM) ([Card](https://chub.ai/characters/SecretApe/lacie-stuck-in-the-endless-dimension-c0b8d903b378)) ([Custom Lorebook](https://botbooru.com/lorebook/741))
 
 > I'm still doing a final pass on this lorebook. Until I finish, if you think a room is important and want it to stay in context, type the room code in your next reply as: "Staying in Room [Code Here] for this turn"
 
@@ -67,7 +67,7 @@ Optional toggles include Peril, the Thoughts row, Colored Dialogue and Pop in Gr
 
 ## Gemini and other models
 
-The preset is tuned for Gemini, though it runs token hot on input/output because I'm using 'old faithful' from dptgreg *both directions*, so consider another model if you can't afford the token cost.
+The preset is tuned for Gemini, though it runs token hot on output because I'm using 'old faithful' from dptgreg, so consider another model if you can't afford the token cost.
 
 On any other model, make these changes:
 
@@ -88,12 +88,18 @@ Accepting feedback for changes. Please use as much detail as you can, though I d
 
 Licensed GPL-3.0, the same as the works it's built from. Fork it freely and share your changes under the same license.
 
-- **dptgreg**: Freaky Frankenstein 6.0 Micro (the base and the FrankenWIRE format), Freaky Frankenstein 5.4 and 5.6 Internal States, and the Hapuppy thought regex
-- **kinkyalt_02**: Aria's Realistic Intelligence Assistance 1.0, for the mechanics and prose rules
-- **Rayansaki**: Shiro's Mixtape, the visual style behind the scene bar and tracker
+- **dptgreg**: Freaky Frankenstein 6.0 Micro (the base and the FrankenWIRE format), Freaky Frankenstein 5.4 and 5.6 Internal States, and the Hapuppy thought regex.
+- **kinkyalt_02**: Aria's Realistic Intelligence Assistance 1.0, for the mechanics and prose rules, the gates, the fate roll ideas, and for letting me beta test ARIA
+- **Rayansaki**: Shiro's Mixtape, the visual style behind the scene bar and tracker, and also some of the prose rules
 - **Ok_Strategy_2420**: TRP-AO rules, which I explored during development and left out of this build
 
 Assembled by BSPiotr.
+
+---
+
+## What this Preset Isn't
+
+No current plans for a relationship tracker module. I find them clunky and they 'force' stale turns.
 
 ---
 
